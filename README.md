@@ -24,7 +24,7 @@ Síntese dos resultados e discussão sobre a importância das ferramentas estuda
 
 ---
 
-## ⚙️ Requisitos
+##  Requisitos
 
 Antes de executar o `.qmd`, certifique-se de ter as bibliotecas necessárias instaladas:
 
