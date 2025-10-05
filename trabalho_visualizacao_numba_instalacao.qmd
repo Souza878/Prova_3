@@ -1,14 +1,19 @@
 ---
 title: "Visualização e Aceleração Computacional em Python"
-author: "Edivan"
 format: html
 jupyter: python3
 ---
 
-Instalar dependências (execute uma vez)
-!pip install matplotlib seaborn plotnine numba scikit-learn pandas
+Aluno:Edivan Dias de Souza\
+Matrícula:20240045069\
+Professor:Pedro Rafael Diniz Marinho\
 
+Instalar dependências (execute uma vez)\
+pip install matplotlib seaborn plotnine numba scikit-learn pandas
 
+```{python}
+pip install matplotlib seaborn plotnine numba scikit-learn pandas
+```
 # Introdução
 
 Neste trabalho, exploramos duas ferramentas essenciais do ecossistema Python voltadas para **visualização de dados** e **aceleração computacional**:  
